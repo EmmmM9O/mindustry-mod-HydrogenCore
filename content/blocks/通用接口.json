@@ -1,0 +1,15 @@
+{
+     "name":"通用接口",//名称
+     "description":"通用的接口 可输入可输出 可物品 可液体 可能量 用于多方块",//简介
+     "details":"",//小字注解
+     "size":1,//尺寸
+     "itemCapacity":5,//物品容量
+     "liquidCapacity":5,//流体容量
+     "requirements":[
+       "copper/30",
+        "titanium/20",
+        "silicon/20"
+	],//建造花费
+     "research":"core-shard",//前置科技
+     "category":"crafting"//建造菜单中的位置
+}
