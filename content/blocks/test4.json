@@ -1,0 +1,12 @@
+{
+     "name":"test4",//名称
+     "description":"",//简介
+     "details":"",//小字注解
+     "size":1,//尺寸
+     "itemCapacity":64,//物品容量
+     "liquidCapacity":64,//流体容量
+     "requirements":[
+	],//建造花费
+     "research":"core-shard",//前置科技
+     "category":"crafting"//建造菜单中的位置
+}
